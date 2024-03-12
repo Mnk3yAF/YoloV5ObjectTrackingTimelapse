@@ -10,12 +10,12 @@
 ### Steps to run Code
 - Clone the repository
 ```
-git clone https://github.com/RizwanMunawar/yolov5-object-tracking.git
+git clone https://github.com/Mnk3yAF/YoloV5ObjectTrackingTimelapse.git
 ```
 
 - Goto the cloned folder.
 ```
-cd yolov5-object-tracking
+cd YoloV5ObjectTrackingTimelapse
 ```
 
 - Create a virtual envirnoment (Recommended, If you dont want to disturb python packages)
