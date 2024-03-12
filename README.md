@@ -46,5 +46,5 @@ python -m streamlit run app.py
 
 <b>Note:</b> Make sure, to add video in the <b>yolov5-object-tracking</b> folder, that you want to run on streamlit dashboard. Otherwise streamlit server will through an error.
 
-###Known Bugs
+### Known Bugs
 - Labels do not attach properly to bounding boxes after some time 
